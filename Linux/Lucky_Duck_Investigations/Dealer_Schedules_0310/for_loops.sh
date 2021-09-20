@@ -30,15 +30,3 @@ done
 #for x in ${ls_out[@]}; do
 #	echo $x
 #done
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
