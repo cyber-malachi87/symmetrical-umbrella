@@ -1,4 +1,5 @@
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
+![image](https://user-images.githubusercontent.com/80698243/134033827-3628c38f-b650-44d7-9df0-487589213961.png)
 
 elk-playbook.yml
 
@@ -50,6 +51,7 @@ Install Docker python module
 Increase virtual memory
 download and launch a docker elk docker_container
 The following screenshot displays the result of running docker ps after successfully configuring the ELK instance.
+![image](https://user-images.githubusercontent.com/80698243/134034014-1ef0512c-4e35-4d89-8897-28746ff53ee5.png)
 
 Target Machines & Beats
 This ELK server is configured to monitor the following machines:
