@@ -1,9 +1,3 @@
-Project-1/Linux/sys_info.sh
-@lkborden
-lkborden Add files via upload
-Latest commit 405464d 4 days ago
- History
- 1 contributor
 9 lines (7 sloc)  195 Bytes
   
 #!/bin/bash
