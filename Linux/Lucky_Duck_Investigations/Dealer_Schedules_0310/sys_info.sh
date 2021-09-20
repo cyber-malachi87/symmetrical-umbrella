@@ -14,16 +14,3 @@ echo $MATCHTYPE
 echo -e "Unameinfo: $(uname -a) \n"
 echo -e "IP Info: $(ip addr | head -9 |tail -1) \n"
 echo "The Hostname is: $(hostname)"
-
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
